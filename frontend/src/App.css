@@ -1,0 +1,30 @@
+/* header css */
+.nav-item {
+  margin-top: 10px;
+  margin-left: 95px;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+.logo {
+  margin-right: 700px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.card {
+  background-color: forestgreen;
+  /* text-align: center; */
+  justify-content: center;
+  max-width: 25rem;
+  min-height: 15rem;
+}
+
+.product-grid {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
